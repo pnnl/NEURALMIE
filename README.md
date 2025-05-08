@@ -45,6 +45,7 @@ There are two Python scripts provided that show examples of how to load and infe
 `sphere_inference_demo.py` <br />
 `coreshell_inference_demo.py`
 
+Using NeuralMie requires using [Sungduk Yu's fork of FKB](https://github.com/sungdukyu/FKB64) that implements the 'swish' activation function. (Note that using the base version of FKB without the 'swish' activation will not produce an error but will produce incorrect outputs!).
 
 
 
@@ -71,7 +72,7 @@ The remaining scripts in the repository are used to generate scattering data and
 
 [[2](https://opg.optica.org/ao/abstract.cfm?uri=ao-20-20-3657)]  Toon, O. B. and T. P. Ackerman: Algorithms for the calculation of scattering by stratified spheres, Appl. Opt. 20, 3657-3660, 1981. 
 
-[[3](https://github.com/scientific-computing/FKB)]   Ott, J., M. Pritchard, N. Best, E. Linstead, M. Curcic, and P. Baldi: A Fortran-Keras Deep Learning Bridge for Scientific Computing, arXiv:2004.10652, 2020.
+[[3](https://github.com/sungdukyu/FKB64)]   Ott, J., M. Pritchard, N. Best, E. Linstead, M. Curcic, and P. Baldi: A Fortran-Keras Deep Learning Bridge for Scientific Computing, arXiv:2004.10652, 2020.
 
 
 
