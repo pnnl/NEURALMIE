@@ -67,8 +67,25 @@ The remaining scripts in the repository are used to generate scattering data and
 
 ## References
 
-[[1](https://doi.org/10.5194/gmd-2024-30)] Geiss, A. and P.-L. Ma: NeuralMie (v1.0): An Aerosol Optics Emulator, Geosci. Model Dev. Discuss. [preprint], in review, 2024. 
+[[1](https://doi.org/10.5194/gmd-2024-30)] Geiss, A. and P.-L. Ma: NeuralMie (v1.0): An Aerosol Optics Emulator, Geosci. Model Dev. Discuss. [preprint], in review, 2024.
 
 [[2](https://opg.optica.org/ao/abstract.cfm?uri=ao-20-20-3657)]  Toon, O. B. and T. P. Ackerman: Algorithms for the calculation of scattering by stratified spheres, Appl. Opt. 20, 3657-3660, 1981. 
 
 [[3](https://github.com/scientific-computing/FKB)]   Ott, J., M. Pritchard, N. Best, E. Linstead, M. Curcic, and P. Baldi: A Fortran-Keras Deep Learning Bridge for Scientific Computing, arXiv:2004.10652, 2020.
+
+
+
+
+## Disclaimer
+
+This material was prepared as an account of work sponsored by an agency of the United States Government.  Neither the United States Government nor the United States Department of Energy, nor Battelle, nor any of their employees, nor any jurisdiction or organization that has cooperated in the development of these materials, makes any warranty, express or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness or any information, apparatus, product, software, or process disclosed, or represents that its use would not infringe privately owned rights.
+Reference herein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof, or Battelle Memorial Institute. The views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof.
+
+<p align="center">
+PACIFIC NORTHWEST NATIONAL LABORATORY<br />
+<i>operated by</i><br />
+BATTELLE<br />
+<i>for the</i><br />
+UNITED STATES DEPARTMENT OF ENERGY<br />
+<i>under Contract DE-AC05-76RL01830</i><br />
+</p>
