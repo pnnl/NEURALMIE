@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> This repository has been archived and is no longer maintained.
+> The code is provided for historical reference and may contain unpatched or unknown vulnerabilities.
+> It should not be used in production systems.
+
 # NeuralMie and TAMie
 
 This is the code repository for the NeuralMie aerosol optics emulator and the TAMie Mie optics code. The NeuralMie emulator is a neural network physics emulator that closely approximates the bulk scattering properties of populations of small particles. It was developed for use in climate and weather models to simulate the optical properties of atmospheric aerosol populations. TAMie is a fast Python-based Mie scattering code that can be used to calculate the scattering properties of individual particles, modeled as either homogeneous or coated spheres, and was used to generate the training data for NeuralMie. There is a [corresponding paper](https://doi.org/10.5194/gmd-2024-30) that describes and tests the algorithm in detail [1].
